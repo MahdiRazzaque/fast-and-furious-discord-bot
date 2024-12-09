@@ -68,21 +68,13 @@ The bot encompasses a diverse range of functionalities:
 
 4. **Run:** `npm start`
 
-## Usage Examples (Concise)
+## Usage Examples
 
 *   `/announce announcement:Message`
 *   `/ban target:@User reason:Reason`
 *   `/giveaway start duration:1d winners:1 prize:Prize channel:#channel`
 *   `/music play query:Song`
 *   `/help` or `/help command:command-name`
-
-## Future Enhancements
-
-Opportunities for expansion include:
-
-*   **Command Expansion:** Implement new commands for added utility and entertainment.
-*   **Event Handling:** Develop listeners for more Discord events to further automate server tasks.
-*   **Leveraging Discord.js:** Explore advanced features of the Discord.js API to extend bot capabilities.
 
 ## Notes
 
