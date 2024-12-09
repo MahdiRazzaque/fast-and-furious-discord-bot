@@ -80,7 +80,3 @@ The bot encompasses a diverse range of functionalities:
 
 *   This project represents my initial exploration of Discord bot creation and JavaScript development. It served as a valuable learning experience, allowing me to acquire proficiency in these technologies and develop a functional bot from scratch.
 *   This bot hasn't been updated for a very long time, so most features will not be fully functional.
-
-## License
-
-ISC
